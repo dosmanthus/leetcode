@@ -41,6 +41,8 @@
 
 [83. Remove Duplicates from Sorted List](083._RemoveDuplicatesFromSortedList.js)
 
+[88. Merge Sorted Array](088_MergeSortedArray.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
