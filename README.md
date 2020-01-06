@@ -43,6 +43,8 @@
 
 [88. Merge Sorted Array](088_MergeSortedArray.js)
 
+[100. Same Tree](100_SameTree.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
