@@ -45,6 +45,8 @@
 
 [100. Same Tree](100_SameTree.js)
 
+[101. Symmetric Tree](101_SymmetricTree.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
