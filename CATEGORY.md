@@ -23,6 +23,8 @@
 
 [108. Convert Sorted Array to Binary Search Tree](108_ConvertSortedArrayToBinarySearchTree.js)
 
+[110. Balanced Binary Tree](110_BalancedBinaryTree.js)
+
 [235. Lowest Common Ancestor of a Binary Search Tree](235_LowestCommonAncestorOfABinarySearchTree.js)
 
 

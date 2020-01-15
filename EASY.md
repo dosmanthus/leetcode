@@ -50,6 +50,8 @@
 
 [108. Convert Sorted Array to Binary Search Tree](108_ConvertSortedArrayToBinarySearchTree.js)
 
+[110. Balanced Binary Tree](110_BalancedBinaryTree.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
