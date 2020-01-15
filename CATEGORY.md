@@ -25,6 +25,8 @@
 
 [110. Balanced Binary Tree](110_BalancedBinaryTree.js)
 
+[111. Minimum Depth of Binary Tree](111_MinimumDepthOfBinaryTree.js)
+
 [235. Lowest Common Ancestor of a Binary Search Tree](235_LowestCommonAncestorOfABinarySearchTree.js)
 
 
@@ -47,10 +49,14 @@
 
 [104. Maximum Depth of Binary Tree](104_MaximumDepthOfBinaryTree.js)
 
+[111. Minimum Depth of Binary Tree](111_MinimumDepthOfBinaryTree.js)
+
 
 ## BFS(Breadth-First Search) 廣度優先搜尋
 
 [102. Binary Tree Level Order Traversal](102_BinaryTreeLevelOrderTraversal.js)
+
+[111. Minimum Depth of Binary Tree](111_MinimumDepthOfBinaryTree.js)
 
 ## Bubble Sort 氣泡排序法
 

@@ -52,6 +52,8 @@
 
 [110. Balanced Binary Tree](110_BalancedBinaryTree.js)
 
+[111. Minimum Depth of Binary Tree](111_MinimumDepthOfBinaryTree.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
