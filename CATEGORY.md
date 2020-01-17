@@ -29,6 +29,12 @@
 
 [235. Lowest Common Ancestor of a Binary Search Tree](235_LowestCommonAncestorOfABinarySearchTree.js)
 
+[112. Path Sum](112_PathSum.js)
+
+
+## Pascal's Triangle
+
+[118. Pascal's Triangle](118_PascalsTriangle.js)
 
 
 ## DP(Dynamic Programming) 動態規劃

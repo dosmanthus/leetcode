@@ -54,6 +54,10 @@
 
 [111. Minimum Depth of Binary Tree](111_MinimumDepthOfBinaryTree.js)
 
+[112. Path Sum](112_PathSum.js)
+
+[118. Pascal's Triangle](118_PascalsTriangle.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
