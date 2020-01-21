@@ -60,6 +60,8 @@
 
 [119. Pascal's Triangle II](119_PascalsTriangleII.js)
 
+[121. Best Time to Buy and Sell Stock](121_BestTimeToBuyAndSellStock.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
