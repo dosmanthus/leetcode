@@ -64,6 +64,8 @@
 
 [122. Best Time to Buy and Sell Stock II](122_BestTimeToBuyAndSellStockII.js)
 
+[125. Valid Palindrome](125_ValidPalindrome.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
