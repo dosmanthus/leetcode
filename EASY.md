@@ -66,6 +66,8 @@
 
 [125. Valid Palindrome](125_ValidPalindrome.js)
 
+[136. Single Number](136_SingleNumber.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
