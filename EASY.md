@@ -68,6 +68,8 @@
 
 [136. Single Number](136_SingleNumber.js)
 
+[141. Linked List Cycle](141_LinkedListCycle.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
