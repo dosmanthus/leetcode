@@ -72,6 +72,8 @@
 
 [155. Min Stack](155_MinStack.js)
 
+[160. Intersection of Two Linked Lists](160_IntersectionOfTwoLinkedLists.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
