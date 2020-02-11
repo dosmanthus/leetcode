@@ -74,6 +74,8 @@
 
 [160. Intersection of Two Linked Lists](160_IntersectionOfTwoLinkedLists.js)
 
+[167. Two Sum II - Input array is sorted](167_TwoSumII-Inputarrayissorted.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
