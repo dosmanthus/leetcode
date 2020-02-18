@@ -78,6 +78,8 @@
 
 [168. Excel Sheet Column Title](168_ExcelSheetColumnTitle.js)
 
+[169. Majority Element](169_MajorityElement.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
