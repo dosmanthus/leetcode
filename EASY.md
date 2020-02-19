@@ -80,6 +80,8 @@
 
 [169. Majority Element](169_MajorityElement.js)
 
+[171. Excel Sheet Column Number](171_ExcelSheetColumnNumber.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
