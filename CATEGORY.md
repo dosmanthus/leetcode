@@ -73,3 +73,10 @@
 ## Bubble Sort 氣泡排序法
 
 [88. Merge Sorted Array](088_MergeSortedArray.js)
+
+
+## SQL
+
+[175. Combine Two Tables](175_CombineTwoTables.js)
+
+[176. Second Highest Salary](176_SecondHighestSalary.js)

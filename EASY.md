@@ -84,6 +84,10 @@
 
 [172. Factorial Trailing Zeroes](172_FactorialTrailingZeroes.js)
 
+[175. Combine Two Tables](175_CombineTwoTables.js)
+
+[176. Second Highest Salary](176_SecondHighestSalary.js)
+
 ...
 
 [203.Remove Linked List Elements](203_RemoveLinkedListElements.js)
