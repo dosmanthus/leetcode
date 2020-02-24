@@ -80,3 +80,7 @@
 [175. Combine Two Tables](001-200/175_CombineTwoTables.js)
 
 [176. Second Highest Salary](001-200/176_SecondHighestSalary.js)
+
+[181. Employees Earning More Than Their Managers](181_EmployeesEarningMoreThanTheirManagers.js)
+
+[182. Duplicate Emails](182_DuplicateEmails.js)

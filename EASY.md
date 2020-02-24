@@ -88,6 +88,10 @@
 
 [176. Second Highest Salary](001-200/176_SecondHighestSalary.js)
 
+[181. Employees Earning More Than Their Managers](181_EmployeesEarningMoreThanTheirManagers.js)
+
+[182. Duplicate Emails](182_DuplicateEmails.js)
+
 ...
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)
