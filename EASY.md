@@ -96,6 +96,8 @@
 
 [189. Rotate Array](189_RotateArray.js)
 
+[196. Delete Duplicate Emails](196_DeleteDuplicateEmails.js)
+
 ...
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)

@@ -86,3 +86,5 @@
 [182. Duplicate Emails](182_DuplicateEmails.js)
 
 [183. Customers Who Never Order](183_CustomersWhoNeverOrder.js)
+
+[196. Delete Duplicate Emails](196_DeleteDuplicateEmails.js)
