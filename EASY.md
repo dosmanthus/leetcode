@@ -84,19 +84,21 @@
 
 [172. Factorial Trailing Zeroes](001-200/172_FactorialTrailingZeroes.js)
 
-[175. Combine Two Tables](001-200/175_CombineTwoTables.js)
+[175. Combine Two Tables](001-200/175_CombineTwoTables.sql)
 
-[176. Second Highest Salary](001-200/176_SecondHighestSalary.js)
+[176. Second Highest Salary](001-200/176_SecondHighestSalary.sql)
 
-[181. Employees Earning More Than Their Managers](181_EmployeesEarningMoreThanTheirManagers.js)
+[181. Employees Earning More Than Their Managers](181_EmployeesEarningMoreThanTheirManagers.sql)
 
-[182. Duplicate Emails](182_DuplicateEmails.js)
+[182. Duplicate Emails](182_DuplicateEmails.sql)
 
-[183. Customers Who Never Order](183_CustomersWhoNeverOrder.js)
+[183. Customers Who Never Order](183_CustomersWhoNeverOrder.sql)
 
 [189. Rotate Array](189_RotateArray.js)
 
-[196. Delete Duplicate Emails](196_DeleteDuplicateEmails.js)
+[196. Delete Duplicate Emails](196_DeleteDuplicateEmails.sql)
+
+[197. Rising Temperature](197_RisingTemperature.sql)
 
 ...
 
