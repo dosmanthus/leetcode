@@ -100,6 +100,8 @@
 
 [197. Rising Temperature](197_RisingTemperature.sql)
 
+[198. House Robber](198_HouseRobber.js)
+
 ...
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)
