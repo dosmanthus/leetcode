@@ -102,6 +102,8 @@
 
 [198. House Robber](198_HouseRobber.js)
 
+[202. Happy Number](202_HappyNumber.js)
+
 ...
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)
