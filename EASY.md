@@ -88,25 +88,25 @@
 
 [176. Second Highest Salary](001-200/176_SecondHighestSalary.sql)
 
-[181. Employees Earning More Than Their Managers](181_EmployeesEarningMoreThanTheirManagers.sql)
+[181. Employees Earning More Than Their Managers](001-200/181_EmployeesEarningMoreThanTheirManagers.sql)
 
-[182. Duplicate Emails](182_DuplicateEmails.sql)
+[182. Duplicate Emails](001-200/182_DuplicateEmails.sql)
 
-[183. Customers Who Never Order](183_CustomersWhoNeverOrder.sql)
+[183. Customers Who Never Order](001-200/183_CustomersWhoNeverOrder.sql)
 
-[189. Rotate Array](189_RotateArray.js)
+[189. Rotate Array](001-200/189_RotateArray.js)
 
-[196. Delete Duplicate Emails](196_DeleteDuplicateEmails.sql)
+[196. Delete Duplicate Emails](001-200/196_DeleteDuplicateEmails.sql)
 
-[197. Rising Temperature](197_RisingTemperature.sql)
+[197. Rising Temperature](001-200/197_RisingTemperature.sql)
 
-[198. House Robber](198_HouseRobber.js)
+[198. House Robber](001-200/198_HouseRobber.js)
 
-[202. Happy Number](202_HappyNumber.js)
-
-...
+[202. Happy Number](201-400/202_HappyNumber.js)
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)
+
+...
 
 [235. Lowest Common Ancestor of a Binary Search Tree](201-400/235_LowestCommonAncestorOfABinarySearchTree.js)
 
