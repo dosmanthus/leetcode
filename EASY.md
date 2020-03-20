@@ -106,6 +106,8 @@
 
 [203.Remove Linked List Elements](201-400/203_RemoveLinkedListElements.js)
 
+[204. Count Primes](201-400/204_CountPrimes.js)
+
 ...
 
 [235. Lowest Common Ancestor of a Binary Search Tree](201-400/235_LowestCommonAncestorOfABinarySearchTree.js)
