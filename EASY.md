@@ -108,6 +108,9 @@
 
 [204. Count Primes](201-400/204_CountPrimes.js)
 
+[205. Isomorphic Strings](201-400/205_IsomorphicStrings.js)
+
+
 ...
 
 [235. Lowest Common Ancestor of a Binary Search Tree](201-400/235_LowestCommonAncestorOfABinarySearchTree.js)
